@@ -1,0 +1,2 @@
+### La membrana plasmatica
+La membrana plasmatica, ha il compito di sostenere ciò che contiene la [[Cellula]] e proteggierla, permette inoltre la sua individualità e la mette in comunicazione con le altre cellule tramite le [[giunture cellulari]]

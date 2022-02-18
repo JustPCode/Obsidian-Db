@@ -1,0 +1,1 @@
+![[Fermentazione lattica.png]]

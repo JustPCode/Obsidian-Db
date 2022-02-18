@@ -1,0 +1,2 @@
+### L'apparato di Golgi
+modifica le molecole prodotte dal [[Reticolo endoplasmatico]] ([[proteine]] e [[lipidi]]) per "semplificarle" e smistarle nella cellula con dei "pacchetti" che viaggiano attraverso le vescicole di trasporto verso la [[membrana plasmatica]] dove faranno secrezione

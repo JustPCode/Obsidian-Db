@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "f30f81cfbadd0277",
+    "type": "split",
+    "children": [
+      {
+        "id": "05604cb166999420",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Scienza/Biologia/Metabolismo.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d4538091029099f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d699bcffe16a3da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e427c8b3889e1ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3edcdd53139cfdec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70738913e989a984",
+    "type": "split",
+    "children": [
+      {
+        "id": "17142f8b6092d6d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a33d8de02271511c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scienza/Biologia/Metabolismo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "05604cb166999420",
+  "lastOpenFiles": [
+    "Scienza/Biologia/Metabolismo.md",
+    "Scienza/Biologia/Ipotesi di Gaia.md",
+    "Scienza/Biologia/La cellula/Vacuoli.md",
+    "Scienza/Biologia/La cellula/cellula vegetale.md",
+    "Scienza/Biologia/La cellula/cellule animali.md",
+    "Scienza/Biologia/La cellula/Organuli.md",
+    "parete cellulare.md",
+    "cellulosa.md",
+    "Scienza/Biologia/La cellula/membrana nucleare.md",
+    "Scienza/Biologia/La cellula/nucleo.md"
+  ]
+}

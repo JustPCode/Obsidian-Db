@@ -9,7 +9,7 @@ Hanno diverse forme:
 
 Contengono:
 * [[membrana plasmatica]];
-* [[materiale genetico]];
+* [[Materiale genetico]];
 * [[Organuli]];
 
 Le cellule procariotiche conservano il [[Materiale genetico|DNA]] in una zona (_il [[Organuli|nucleolide]]_)

@@ -15,4 +15,4 @@ Mentre le prensentano in più:
 * una [[parete cellulare]];
 * altri oganuli:
 	* [[Vacuoli|vacuolo centrale]];
-	* [[cloroplasti]];
+	* [[Cloroplasti]];

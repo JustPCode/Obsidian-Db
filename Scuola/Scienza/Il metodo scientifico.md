@@ -11,3 +11,5 @@ Il metodo che separa la fantascienza dalla realtà
 	- Fallimento: Step 2;
 4. Interpretazione dati;
 5. Stesura [[relazione]];
+
+test OBSIDIAN GIT

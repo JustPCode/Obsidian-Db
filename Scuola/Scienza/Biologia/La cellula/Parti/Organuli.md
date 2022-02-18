@@ -7,7 +7,7 @@ Il sistema di membrane interne è un'unità funzionale ed è costituita dal:
 * [[Vescicole di trasporto]],
 
  Altri componenti:
-* [[Nucleo]], contiene [[materiale genetico]]
+* [[nucleo]], contiene [[Materiale genetico]]
 * [[Lisosomi]], enzimi digestivi
 * [[Perossisomi]], demoliscono le sostanze nocive per la cellula
 * [[Vacuoli]], funzione strutturale e deposito

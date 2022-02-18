@@ -11,4 +11,4 @@ ha la forma di un sacchetto e scolge numerose funzioni:
 - Immagazzina acqua contribuendo a far aumentare le dimensioni della cellula;
 - Immagazzina sostanze chimiche essenziali sia prodotti di rifuito del metabolismo cellulare;
 
-I [[cloroplasti]] sono la sede del processo della [[fotosintesi]], il cloroplasto al suo interno è suddiviso da alcune membrane. Quelle interne formano una serie di dischi impilati chiamati [[tilacoidi]]
+I [[Cloroplasti]] sono la sede del processo della [[fotosintesi]], il cloroplasto al suo interno è suddiviso da alcune membrane. Quelle interne formano una serie di dischi impilati chiamati [[tilacoidi]]

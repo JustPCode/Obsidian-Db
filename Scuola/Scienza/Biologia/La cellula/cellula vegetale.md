@@ -9,10 +9,12 @@ Le similitudini tra la [[cellule animali|cellula animale]] e questa sono:
 * [[Apparato di Golgi]];
 * [[citoscheletro]];
 
-> In alcuni casi, come nelle alghe flagellate, le cellule vegetali sono dotate di [[flagelli]]
+> In alcuni casi, come nelle [[alghe]] flagellate, le cellule vegetali sono dotate di [[Flagelli]]
 
 Mentre le prensentano in più:
 * una [[parete cellulare]];
 * altri oganuli:
 	* [[Vacuoli|vacuolo centrale]];
 	* [[Cloroplasti]];
+
+

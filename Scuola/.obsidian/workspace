@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scienza/Biologia/La cellula/Parti/Materiale genetico.md",
+            "file": "opagina nuova.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scienza/Biologia/La cellula/Parti/Materiale genetico.md",
+                "file": "opagina nuova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "05604cb166999420",
   "lastOpenFiles": [
-    "Scienza/Biologia/La cellula/Parti/Materiale genetico.md",
-    "Scienza/Biologia/La cellula/Eucariotiche.md",
-    "Scienza/Biologia/La cellula/cellula vegetale.md",
+    "opagina nuova.md",
     "Scienza/Biologia/La cellula/Cellula.md",
     "MAin.md",
     "Scienza/Biologia/La cellula/Procariotiche.md",
-    "Scienza/Biologia/La cellula/Parti/parete cellulare.md",
-    "Scienza/Biologia/La cellula/Parti/membrana plasmatica.md",
-    "Scienza/Biologia/La cellula/Parti/Apparato di Golgi.md",
-    "Scienza/Biologia/La cellula/Parti/Organuli.md"
+    "Scienza/Biologia/La cellula/Flagelli.md",
+    "Scienza/Biologia/La cellula/Eucariotiche.md",
+    "Scienza/Biologia/La cellula/cellule animali.md",
+    "Scienza/Biologia/La cellula/cellula vegetale.md",
+    "Scienza/Biologia/La cellula/Parti/Materiale genetico.md",
+    "Scienza/Biologia/La cellula/Parti/parete cellulare.md"
   ]
 }

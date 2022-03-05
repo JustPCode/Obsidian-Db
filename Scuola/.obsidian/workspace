@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "opagina nuova.md",
+            "file": "Scienza/Teoria di Hooke.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cellula eucar",
+                "query": "la teoria cellulare",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "opagina nuova.md",
+                "file": "Scienza/Teoria di Hooke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "05604cb166999420",
   "lastOpenFiles": [
+    "Scienza/Teoria di Hooke.md",
     "opagina nuova.md",
     "Scienza/Biologia/La cellula/Cellula.md",
     "MAin.md",
@@ -97,7 +98,6 @@
     "Scienza/Biologia/La cellula/Eucariotiche.md",
     "Scienza/Biologia/La cellula/cellule animali.md",
     "Scienza/Biologia/La cellula/cellula vegetale.md",
-    "Scienza/Biologia/La cellula/Parti/Materiale genetico.md",
-    "Scienza/Biologia/La cellula/Parti/parete cellulare.md"
+    "Scienza/Biologia/La cellula/Parti/Materiale genetico.md"
   ]
 }

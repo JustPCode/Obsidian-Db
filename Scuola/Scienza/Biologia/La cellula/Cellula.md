@@ -27,7 +27,7 @@ La membrana plasmatica è costituita da un doppio strato di [[Fosfolipidi]], in 
 
 
  ### L'ambiente esterno
-Sul lato esterno  ci sono dei [[polisaccalidi]]
+Sul lato esterno ci sono dei [[polisaccalidi]]
 
 
 ### La diffusione semplice o facilitata in un liquido

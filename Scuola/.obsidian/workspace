@@ -7,12 +7,8 @@
         "id": "05604cb166999420",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Scienza/Biologia/La cellula/Cellula.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scienza/Biologia/La cellula/Cellula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +85,15 @@
   },
   "active": "05604cb166999420",
   "lastOpenFiles": [
+    "Scienza/Biologia/La cellula/Parti/Organuli.md",
+    "Scienza/Biologia/La cellula/Parti/Reticolo endoplasmatico.md",
     "Scienza/Biologia/La cellula/Cellula.md",
     "Scienza/Biologia/La cellula/Parti/nucleo.md",
     "Scienza/Biologia/La cellula/Immagini/nucleo cellula.jpg",
-    "Scienza/Biologia/La cellula/Parti/Organuli.md",
     "Scienza/Biologia/La cellula/Parti/citoplasma.md",
     "Scienza/Biologia/La cellula/Generazione energia/fermentazione.md",
     "Scienza/Biologia/La cellula/Generazione energia/Cloroplasti.md",
     "Scienza/Biologia/La cellula/Generazione energia/cellulosa.md",
-    "Scienza/Biologia/La cellula/Flagelli.md",
-    "Scienza/Biologia/La cellula/Eucariotiche.md"
+    "Scienza/Biologia/La cellula/Flagelli.md"
   ]
 }

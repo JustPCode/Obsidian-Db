@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scienza/Biologia/Metabolismo.md",
+            "file": "Scienza/Biologia/La cellula/Generazione energia/fotosintesi.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metabol",
+                "query": "cloroplasti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,12 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "70738913e989a984",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scienza/Biologia/Metabolismo.md",
+                "file": "Scienza/Biologia/La cellula/Generazione energia/fotosintesi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "05604cb166999420",
   "lastOpenFiles": [
+    "Scienza/Biologia/La cellula/Generazione energia/fotosintesi.md",
+    "Scienza/Biologia/La cellula/Generazione energia/Cloroplasti.md",
     "Scienza/Biologia/Metabolismo.md",
+    "Scienza/Biologia/La cellula/Generazione energia/respirazione cellulare.md",
+    "Scienza/Biologia/La cellula/Parti/Vacuoli.md",
+    "organismi autotrofi.md",
     "Scienza/Biologia/Ciclo Vitale.md",
     "Scienza/Biologia/Ipotesi di Gaia.md",
     "Scienza/Biologia/Biologia.md",
-    "Scienza/Biologia/La cellula/Cellula.md",
-    "Scienza/Biologia/Uomo.md",
-    "Scienza/Biologia/Virus.md",
-    "Scienza/Biologia/La cellula/Parti/Organuli.md",
-    "Scienza/Biologia/La cellula/Parti/Fosfolipidi.md",
-    "Scienza/Biologia/La cellula/Eucariotiche.md"
+    "Scienza/Biologia/La cellula/Cellula.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scienza/Biologia/La cellula/Parti/Organuli.md",
+            "file": "Scienza/Biologia/Metabolismo.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "la teoria cellulare",
+                "query": "metabol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,11 +70,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scienza/Biologia/La cellula/Parti/Organuli.md",
+                "file": "Scienza/Biologia/Metabolismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -90,15 +90,15 @@
   },
   "active": "05604cb166999420",
   "lastOpenFiles": [
-    "Scienza/Biologia/La cellula/Parti/Organuli.md",
+    "Scienza/Biologia/Metabolismo.md",
+    "Scienza/Biologia/Ciclo Vitale.md",
+    "Scienza/Biologia/Ipotesi di Gaia.md",
     "Scienza/Biologia/Biologia.md",
-    "Scienza/Biologia/La cellula/Parti/Fosfolipidi.md",
     "Scienza/Biologia/La cellula/Cellula.md",
-    "Scienza/Biologia/La cellula/Eucariotiche.md",
-    "Scienza/Biologia/La cellula/cellula vegetale.md",
-    "Scienza/Biologia/La cellula/Generazione energia/Cloroplasti.md",
-    "Scienza/Biologia/La cellula/Generazione energia/fotosintesi.md",
-    "Scienza/Biologia/La cellula/Parti/citoplasma.md",
-    "Scienza/Biologia/La cellula/Parti/mitocondri.md"
+    "Scienza/Biologia/Uomo.md",
+    "Scienza/Biologia/Virus.md",
+    "Scienza/Biologia/La cellula/Parti/Organuli.md",
+    "Scienza/Biologia/La cellula/Parti/Fosfolipidi.md",
+    "Scienza/Biologia/La cellula/Eucariotiche.md"
   ]
 }

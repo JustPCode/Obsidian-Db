@@ -49,12 +49,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70738913e989a984",
@@ -91,8 +91,8 @@
   "active": "05604cb166999420",
   "lastOpenFiles": [
     "Scienza/Biologia/La cellula/Generazione energia/fotosintesi.md",
-    "Scienza/Biologia/La cellula/Generazione energia/Cloroplasti.md",
     "Scienza/Biologia/Metabolismo.md",
+    "Scienza/Biologia/La cellula/Generazione energia/Cloroplasti.md",
     "Scienza/Biologia/La cellula/Generazione energia/respirazione cellulare.md",
     "Scienza/Biologia/La cellula/Parti/Vacuoli.md",
     "organismi autotrofi.md",

@@ -3,7 +3,7 @@ Gli organi della cellula si muovono nel [[citoplasma]], le sue membrane tra in l
 
 Il sistema di membrane interne è un'unità funzionale ed è costituita dal:
 * [[Reticolo endoplasmatico]],	sistetizzano proteine
-* [[Apparato di Golgi]], serve da deposito per biomolecole
+* [[Apparato di Golgi]], serve da deposito per [[biomolecole]]
 * [[Vescicole di trasporto]],
 
  Altri componenti:

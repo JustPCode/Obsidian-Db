@@ -1,5 +1,5 @@
 ### La fotosintesi
-iIl processo attraverso il quale gli [[organismi autotrofi]] producono biomolecole a partire da sostanze inorganiche è detto ==fotosintesi.==
+iIl processo attraverso il quale gli [[organismi autotrofi]] producono [[biomolecole]] a partire da sostanze inorganiche è detto ==fotosintesi.==
 
 La luce solare viene catturata da speciali [[molecole]] chiamate pigmenti, sensibili alle radiazioni luminose, il più diffuso è la [[clorofilla]]
 

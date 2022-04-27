@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scienza/Biologia/La cellula/Generazione energia/respirazione cellulare.md",
+            "file": "biomolecole.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "biomo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scienza/Biologia/La cellula/Generazione energia/respirazione cellulare.md",
+                "file": "biomolecole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "7154e63ef519c6c3",
   "lastOpenFiles": [
+    "biomolecole.md",
+    "Scienza/Biologia/La cellula/Generazione energia/fotosintesi.md",
+    "Scienza/Biologia/La cellula/Parti/Organuli.md",
     "Scienza/Biologia/La cellula/Generazione energia/respirazione cellulare.md",
     "Scienza/Biologia/La cellula/Generazione energia/Glicolisi.md",
     "Scienza/Biologia/La cellula/Generazione energia/acido piruvico.md",
     "Scienza/Biologia/La cellula/Generazione energia/ATP.md",
-    "Scienza/Biologia/La cellula/Generazione energia/fotosintesi.md",
     "Scienza/Biologia/Metabolismo.md",
     "Scienza/Biologia/La cellula/Generazione energia/Cloroplasti.md",
-    "Scienza/Biologia/La cellula/Parti/Vacuoli.md",
-    "organismi autotrofi.md",
-    "Scienza/Biologia/Ciclo Vitale.md"
+    "Scienza/Biologia/La cellula/Parti/Vacuoli.md"
   ]
 }

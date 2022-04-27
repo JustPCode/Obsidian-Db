@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "05604cb166999420",
+        "id": "7154e63ef519c6c3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scienza/Biologia/La cellula/Generazione energia/fotosintesi.md",
+            "file": "Scienza/Biologia/La cellula/Generazione energia/respirazione cellulare.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cloroplasti",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "70738913e989a984",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scienza/Biologia/La cellula/Generazione energia/fotosintesi.md",
+                "file": "Scienza/Biologia/La cellula/Generazione energia/respirazione cellulare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05604cb166999420",
+  "active": "7154e63ef519c6c3",
   "lastOpenFiles": [
+    "Scienza/Biologia/La cellula/Generazione energia/respirazione cellulare.md",
+    "Scienza/Biologia/La cellula/Generazione energia/Glicolisi.md",
+    "Scienza/Biologia/La cellula/Generazione energia/acido piruvico.md",
+    "Scienza/Biologia/La cellula/Generazione energia/ATP.md",
     "Scienza/Biologia/La cellula/Generazione energia/fotosintesi.md",
     "Scienza/Biologia/Metabolismo.md",
     "Scienza/Biologia/La cellula/Generazione energia/Cloroplasti.md",
-    "Scienza/Biologia/La cellula/Generazione energia/respirazione cellulare.md",
     "Scienza/Biologia/La cellula/Parti/Vacuoli.md",
     "organismi autotrofi.md",
-    "Scienza/Biologia/Ciclo Vitale.md",
-    "Scienza/Biologia/Ipotesi di Gaia.md",
-    "Scienza/Biologia/Biologia.md",
-    "Scienza/Biologia/La cellula/Cellula.md"
+    "Scienza/Biologia/Ciclo Vitale.md"
   ]
 }

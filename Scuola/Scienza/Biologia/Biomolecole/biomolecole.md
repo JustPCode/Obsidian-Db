@@ -12,6 +12,6 @@ Caratteristiche acqua:
 - Bipolare
 
 Le molecole della vita sono catene di atomi di carbone che prendono il nome di polimeri legati assieme da legami di tipo covalente:
-- Carboidrati
+- [[Carboidrati]]
 - Proteine (amminoacidi)
 - Acidi nucleici

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7154e63ef519c6c3",
+        "id": "81292926156cc770",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "biomolecole.md",
+            "file": "Scienza/Biologia/Biomolecole/Carboidrati.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biomolecole.md",
+                "file": "Scienza/Biologia/Biomolecole/Carboidrati.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7154e63ef519c6c3",
+  "active": "81292926156cc770",
   "lastOpenFiles": [
-    "biomolecole.md",
+    "Scienza/Biologia/Biomolecole/Carboidrati.md",
+    "Scienza/Biologia/Biomolecole/biomolecole.md",
+    "Scienza/Biologia/organismi autotrofi.md",
     "Scienza/Biologia/La cellula/Generazione energia/fotosintesi.md",
     "Scienza/Biologia/La cellula/Parti/Organuli.md",
     "Scienza/Biologia/La cellula/Generazione energia/respirazione cellulare.md",
     "Scienza/Biologia/La cellula/Generazione energia/Glicolisi.md",
     "Scienza/Biologia/La cellula/Generazione energia/acido piruvico.md",
     "Scienza/Biologia/La cellula/Generazione energia/ATP.md",
-    "Scienza/Biologia/Metabolismo.md",
-    "Scienza/Biologia/La cellula/Generazione energia/Cloroplasti.md",
-    "Scienza/Biologia/La cellula/Parti/Vacuoli.md"
+    "Scienza/Biologia/Metabolismo.md"
   ]
 }
